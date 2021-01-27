@@ -1,9 +1,9 @@
-### Hi there 👋
+## Hi, I'm Pablo 👋
 
 <!--
 **pgomez-a/pgomez-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an apasionated boy who loves Artificial Intelligence and how we can, as humans, give machines the hability to think. So, in a simple stop on Earth on the way home, I am currentyly studying C. As you can imagine, I have just started my journey, so I am trying to consolidate my programming skills before going to the next level.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
