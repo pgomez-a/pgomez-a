@@ -7,11 +7,11 @@ I am an passionate boy who loves Artificial Intelligence and how we can, as huma
 Here you have some of the notes that I have been taking during my stop on Earth. If you don't understadn anything maybe is because you haven't read: The Hitchhiker's Guide to the Galaxy. Once you read it, you will know what to do with all of this. If you don't want to read it, you can also take these notes although it won't be the same:
 
 <img width="119" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/106330802-2b80d280-6284-11eb-8dec-9ea8a85c6b19.png">
-🌍  I’m currently working on **libft**
-🔭 I’m currently learning **C**
-🛸 I’m looking to collaborate on **Machine Learning projects**
-🧬 Ask me **only if you have a towel, like any good galactic hitchhiker**
-🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**
+<p>🌍  I’m currently working on **libft**</p>
+<p>🔭 I’m currently learning **C**</p>
+<p>🛸 I’m looking to collaborate on **Machine Learning projects**</p>
+<p>🧬 Ask me **only if you have a towel, like any good galactic hitchhiker**</p>
+<p>🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</p>
 
 ## Ways to contact me if you want to contact me 🤯:
 - 👾 Get inspired by the future with <a href="https://twitter.com/future_musk"> my informal account of Twitter.</a>
