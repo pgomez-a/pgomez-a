@@ -3,8 +3,7 @@
 <!--
 **pgomez-a/pgomez-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img width="163" alt="Team Atlantis" align="right" src="https://user-images.githubusercontent.com/74931024/106370586-b08aeb00-635b-11eb-9859-921697b1fc5d.png">
-I am a passionate guy who loves Artificial Intelligence and how we can, as humans, give machines the ability to think. So in a simple stop on Earth on the way home, I am currently studying C. As you can imagine, I have just started my journey, so I am trying to consolidate my programming skills before moving on to the next level.
-
+I am a passionate guy who loves Artificial Intelligence and how we can, as humans, give machines the ability to think. So in a simple stop on Earth on the way home, I am currently studying C. As you can imagine, I have just started my journey, so I am trying to consolidate my programming skills before moving on to the next level.<br>
 
 Here are some of the notes that I have been taking during my stop on Earth. If you don't understand anything, maybe it's because you haven't read: <a href="https://www.casadellibro.com/libro-the-hitchhiker-s-guide-to-the-galaxy/9780345391803/1009645">**The Hitchhiker's Guide to the Galaxy**</a>. Once you read it, you will know what to do with all of this. If you don't want to read it, you can also take these notes, although it won't be the same: 
 
