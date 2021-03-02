@@ -22,5 +22,5 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 ## What I am currently doing 🥸: <img width="145" alt="Captura de pantalla 2021-01-31 a las 14 04 36" align = "right" src="https://user-images.githubusercontent.com/74931024/106384840-50cd2800-63cd-11eb-80bc-10e44a07e992.png">
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution. Thanks to this revolutionary method, we can learn and consolidate new knowledge in such a short time. To show you my tour of 42, I show you a schedule of the projects that I have completed during my 42 experience:
 <img width="1706" alt="Captura de pantalla 2021-01-31 a las 13 59 09" src="https://user-images.githubusercontent.com/74931024/106384719-963d2580-63cc-11eb-99e3-638b1c86cad7.png">
-- Completed projects: **libft**.
-- Projects in process: **get_next_line**.
+- Completed projects: **libft, get_next_line**.
+- Projects in process: **ft_printf**.
