@@ -8,8 +8,8 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 
 <a><img width="119" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/106330802-2b80d280-6284-11eb-8dec-9ea8a85c6b19.png"></a>
 -
-- 🌍 I am currently working on **libft**</a>
-- 🔭 I am currently learning **C**</a>
+- 🌍 I am currently working on **ft_printf**</a>
+- 🔭 I am currently learning **C & Java**</a>
 - 🛸 I am looking to collaborate on **Machine Learning projects**</a>
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
