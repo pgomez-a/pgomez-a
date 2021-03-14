@@ -15,7 +15,6 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
 
 ## Ways to contact me if you want to contact me 🤯:
-- 👾 Get inspired by the future with <a href="https://twitter.com/uni_versen"> my informal Twitter account.</a>
 - 🧠 Get a junior programmer who won't stop learning during his journey <a href="https://www.linkedin.com/in/pgomez-a/"> by following this Linkedin link.</a>
 - 📟 Send a message bottled with feedback, projects proposals and questions by throwing it to my email account ---><br>**pgomez-a@student.42madrid.com**
 
