@@ -8,7 +8,7 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 
 <a><img width="119" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/106330802-2b80d280-6284-11eb-8dec-9ea8a85c6b19.png"></a>
 -
-- 🌍 I am currently working on **ft_server**</a>
+- 🌍 I am currently working on **cub3d**</a>
 - 🔭 I am currently learning **C & Network Administration**</a>
 - 🛸 I am looking to collaborate on **Machine Learning projects**</a>
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
@@ -21,5 +21,5 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 ## What I am currently doing 🥸: <img width="145" alt="Captura de pantalla 2021-01-31 a las 14 04 36" align = "right" src="https://user-images.githubusercontent.com/74931024/106384840-50cd2800-63cd-11eb-80bc-10e44a07e992.png">
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution. Thanks to this revolutionary method, we can learn and consolidate new knowledge in such a short time. To show you my tour of 42, I show you a schedule of the projects that I have completed during my 42 experience:
 <img width="2448" alt="profile pgomez-a" src="https://user-images.githubusercontent.com/74931024/111152696-4fc51400-8591-11eb-8567-8582bd100fe3.png">
-- Completed projects: **libft, get_next_line, ft_printf, netwhat**.
-- Projects in process: **ft_server**.
+- Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server**.
+- Projects in process: **cub3d**.
