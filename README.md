@@ -23,3 +23,5 @@ If you have read my bio, you have realized that I am a student of 42. 42 is an i
 <img width="2442" alt="42Network Profile" src="https://user-images.githubusercontent.com/74931024/117973153-51f6e500-b32c-11eb-9f26-6306a15e9f46.png">
 - Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D**.
 - Projects in process: **push_swap**.
+
+<img width="810" alt="Skills Graph" src="https://user-images.githubusercontent.com/74931024/117973481-be71e400-b32c-11eb-8260-0c8bfa2b9a8f.png">
