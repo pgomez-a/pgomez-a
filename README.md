@@ -14,6 +14,8 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgomez-a&show_icons=true&theme=radical">
+
 ## Ways to contact me if you want to contact me 🤯:
 - 🧠 Get a junior programmer who won't stop learning during his journey <a href="https://www.linkedin.com/in/pgomez-a/"> by following this Linkedin link.</a>
 - 📟 Send a message bottled with feedback, projects proposals and questions by throwing it to my email account ---><br>**pgomez-a@student.42madrid.com**
@@ -24,5 +26,6 @@ If you have read my bio, you have realized that I am a student of 42. 42 is an i
 <img width="2442" alt="42Network Profile" src="https://user-images.githubusercontent.com/74931024/117973153-51f6e500-b32c-11eb-9f26-6306a15e9f46.png">
 - Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot**.
 - Projects in process: **minishell, algorithms, [IA Notes](https://ia-notes.com/)**.
+<img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a">
+<img align="right" width="670" alt="Skills Graph" src="https://user-images.githubusercontent.com/74931024/117973481-be71e400-b32c-11eb-8260-0c8bfa2b9a8f.png">
 
-<img width="810" alt="Skills Graph" src="https://user-images.githubusercontent.com/74931024/117973481-be71e400-b32c-11eb-8260-0c8bfa2b9a8f.png">
