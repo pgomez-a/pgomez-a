@@ -14,7 +14,7 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgomez-a&show_icons=true&theme=radical">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pgomez-a&show_icons=true&theme=radical">
 
 ## Ways to contact me if you want to contact me 🤯:
 - 🧠 Get a junior programmer who won't stop learning during his journey <a href="https://www.linkedin.com/in/pgomez-a/"> by following this Linkedin link.</a>
