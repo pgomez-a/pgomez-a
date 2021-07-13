@@ -23,9 +23,11 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 
 ## What I am currently doing 🥸: <img width="145" alt="Skills Graph" align = "right" src="https://user-images.githubusercontent.com/74931024/106384840-50cd2800-63cd-11eb-80bc-10e44a07e992.png">
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution. Thanks to this revolutionary method, we can learn and consolidate new knowledge in such a short time. To show you my tour of 42, I show you a schedule of the projects that I have completed during my 42 experience:
-<img width="2442" alt="42Network Profile" src="https://user-images.githubusercontent.com/74931024/117973153-51f6e500-b32c-11eb-9f26-6306a15e9f46.png">
+
+<img width="1708" alt="42_profile" src="https://user-images.githubusercontent.com/74931024/125482266-a1000950-c9cb-439f-9a2c-9dc35818d023.png">
+
 - Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell**.
-- Projects in process: **algorithms, [IA Notes](https://ia-notes.com/)**.
+- Projects in process: **philosophers, algorithms, [IA Notes](https://ia-notes.com/)**.
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a">
-<img align="right" width="670" alt="Skills Graph" src="https://user-images.githubusercontent.com/74931024/117973481-be71e400-b32c-11eb-8260-0c8bfa2b9a8f.png">
+<img align="right" width="610" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/125482817-13d7d903-f048-4293-aa2b-a295ebd745d1.png">
 
