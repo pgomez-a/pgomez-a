@@ -8,8 +8,8 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 
 <a><img width="119" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/106330802-2b80d280-6284-11eb-8dec-9ea8a85c6b19.png"></a>
 -
-- 🌍 I am currently working on **philosophers**</a>
-- 🔭 I am currently learning **C & Network Administration & Docker & Git**</a>
+- 🌍 I am currently working on **C++ 42 Piscine**</a>
+- 🔭 I am currently learning **C & C++ & Python & Network Administration & Docker & Git**</a>
 - 🛸 I am looking to collaborate on **Machine Learning projects**</a>
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
@@ -26,8 +26,8 @@ If you have read my bio, you have realized that I am a student of 42. 42 is an i
 
 <img width="1708" alt="42_profile" src="https://user-images.githubusercontent.com/74931024/125482266-a1000950-c9cb-439f-9a2c-9dc35818d023.png">
 
-- Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell**.
-- Projects in process: **philosophers, algorithms, [IA Notes](https://ia-notes.com/)**.
+- Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell, philosophers**.
+- Projects in process: **C++ 42 Piscine, algorithms, [IA Notes](https://ia-notes.com/)**.
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a">
 <img align="right" width="610" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/125482817-13d7d903-f048-4293-aa2b-a295ebd745d1.png">
 
