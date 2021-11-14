@@ -8,7 +8,7 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 
 <a><img width="119" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/106330802-2b80d280-6284-11eb-8dec-9ea8a85c6b19.png"></a>
 -
-- 🌍 I am currently working on **C++ 42 Piscine**</a>
+- 🌍 I am currently working on **ft_containers**</a>
 - 🔭 I am currently learning **C & C++ & Python & Network Administration & Docker & Git**</a>
 - 🛸 I am looking to collaborate on **Machine Learning projects**</a>
 - 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
@@ -19,15 +19,14 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 ## Ways to contact me if you want to contact me 🤯:
 - 🧠 Get a junior programmer who won't stop learning during his journey <a href="https://www.linkedin.com/in/pgomez-a/"> by following this Linkedin link.</a>
 - 📟 Send a message bottled with feedback, projects proposals and questions by throwing it to my email account ---><br>**pgomez-a@student.42madrid.com**
-- 😶‍🌫️ Read the next [**Hitchhiker's Guide to the Galaxy by visiting by blog IA Notes**](https://ia-notes.com/).
+- 😶‍🌫️ Read the next [**Hitchhiker's Guide to the Galaxy by visiting my blog IA Notes**](https://ia-notes.com/).
 
 ## What I am currently doing 🥸: <img width="145" alt="Skills Graph" align = "right" src="https://user-images.githubusercontent.com/74931024/106384840-50cd2800-63cd-11eb-80bc-10e44a07e992.png">
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution. Thanks to this revolutionary method, we can learn and consolidate new knowledge in such a short time. To show you my tour of 42, I show you a schedule of the projects that I have completed during my 42 experience:
 
-<img width="1708" alt="42_profile" src="https://user-images.githubusercontent.com/74931024/125482266-a1000950-c9cb-439f-9a2c-9dc35818d023.png">
+<img width="2453" alt="42_Profile" src="https://user-images.githubusercontent.com/74931024/141690235-fade8e20-4cc1-484d-81c5-0d34926d2c36.png">
 
-- Completed projects: **libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell, philosophers**.
-- Projects in process: **C++ 42 Piscine, algorithms, [IA Notes](https://ia-notes.com/)**.
+- Completed projects: **C 42 Piscine, libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell, philosophers, C++ 42 Piscine**.
+- Projects in process: **ft_containers, algorithms, [IA Notes](https://ia-notes.com/)**.
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a">
-<img align="right" width="610" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/125482817-13d7d903-f048-4293-aa2b-a295ebd745d1.png">
-
+<img align="right" width="610" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/141690295-e1166109-52df-4a53-8b9a-0cce08787562.png">
