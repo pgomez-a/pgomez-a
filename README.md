@@ -29,4 +29,4 @@ If you have read my bio, you have realized that I am a student of 42. 42 is an i
 - Completed projects: **C 42 Piscine, libft, get_next_line, ft_printf, netwhat, ft_server, cub3D, push_swap, libasm, born2beroot, inception, minishell, philosophers, C++ 42 Piscine**.
 - Projects in process: **ft_containers, algorithms, [IA Notes](https://ia-notes.com/)**.
 <img align="left" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a">
-<img align="right" width="610" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/141690295-e1166109-52df-4a53-8b9a-0cce08787562.png">
+<img align="right" width="600" alt="Skill Graph" src="https://user-images.githubusercontent.com/74931024/141690295-e1166109-52df-4a53-8b9a-0cce08787562.png">
