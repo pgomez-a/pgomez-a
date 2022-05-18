@@ -34,5 +34,4 @@ During this learning journey, I have developed my skills in:
 - **Socket Programming**
 - **Networks**
 - **System Administration**
-- **Shell**
 - **Operating Systems**
