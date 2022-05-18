@@ -19,7 +19,7 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 - 📟 Send a message bottled with feedback, projects proposals and questions by throwing it to my email account ---><br>**pgomez-a@student.42madrid.com**
 - 😶‍🌫️ Read the next [**Hitchhiker's Guide to the Galaxy by visiting my blog IA Notes**](https://ia-notes.com/).
 
-## What I am currently doing 🥸: <img width="145" alt="memoji of pgomez-a" align = "right" src="https://user-images.githubusercontent.com/74931024/166304124-f7b26524-b072-4b1b-822a-841af2ea4dda.png">
+## What I am currently doing 🥸: <img width="130" alt="memoji of pgomez-a" align = "right" src="https://user-images.githubusercontent.com/74931024/166304124-f7b26524-b072-4b1b-822a-841af2ea4dda.png">
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution.<br><br>
 During this learning journey, I have developed my skills in:
 
