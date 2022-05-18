@@ -6,12 +6,13 @@ I am a passionate guy who loves Artificial Intelligence and how we can, as human
 
 Here are some of the notes that I have been taking during my stop on Earth. If you don't understand anything, maybe it's because you haven't read: <a href="https://www.casadellibro.com/libro-the-hitchhiker-s-guide-to-the-galaxy/9780345391803/1009645">**The Hitchhiker's Guide to the Galaxy**</a>. Once you read it, you will know what to do with all of this. If you don't want to read it, you can also take these notes, although it won't be the same: 
 
-<a><img width="100" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/166304696-c78357f1-5c18-4f47-8886-721da80bc1e1.png"></a>
+<a><img width="115" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/166304696-c78357f1-5c18-4f47-8886-721da80bc1e1.png"></a>
 
-- 🌍 I am currently working on **ft_irc**</a>
-- 🔭 I am currently learning **C & C++ & Python & Network Administration & Docker & Git**</a>
-- 🛸 I am looking to collaborate on **Machine Learning projects**</a>
-- 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker**</a>
+- 🌍 I am currently working on **ft_irc.**</a>
+- 🔭 I am currently learning **Python & Machine Learning & Cibersecurity.**</a>
+- 👾 I have experience with **C & C++ & Networks & Docker & Git.**</a>
+- 🛸 I am looking to collaborate on **Machine Learning projects.**</a>
+- 🧬 Ask me **only if you have a towel, like every good galactic hitchhiker.**</a>
 - 🚀 Fun fact: **"Time is an illusion. Lunchtime doubly so".**</a>
 
 ## Ways to contact me if you want to contact me 🤯:
