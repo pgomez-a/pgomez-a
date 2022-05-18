@@ -32,4 +32,7 @@ During this learning journey, I have developed my skills in:
 - **Cibersecurity**
 - **Object Oriented Programming**
 - **Socket Programming**
-- **Network and System Administration**
+- **Networks**
+- **System Administration**
+- **Shell**
+- **Operating Systems**
