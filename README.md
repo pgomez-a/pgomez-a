@@ -26,7 +26,7 @@ Here are some of the notes that I have been taking during my stop on Earth. If y
 If you have read my bio, you have realized that I am a student of 42. 42 is an innovative programming school based on peer learning, as people do in companies. We don't have teachers, but we have the Internet and classmates. If we have to solve a problem and we don't know how, we simply start looking for the most efficient solution.<br><br>
 During this learning journey, I have developed my skills in:
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgomez-a&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pgomez-a&show_icons=true&theme=swift">
 
 - **C Programming**
 - **C++ Programming**
@@ -36,7 +36,3 @@ During this learning journey, I have developed my skills in:
 - **Object Oriented Programming**
 - **Socket Programming**
 - **Network and System Administration**
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pgomez-a&show_icons=true&theme=swift">
-</div>
