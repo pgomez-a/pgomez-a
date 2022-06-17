@@ -1,5 +1,21 @@
-# Hi, I'm Pablo 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pgomez-a&left_text=Visitors%20)
+# Hi, I'm Pablo 👋 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pgomez-a&left_text=Visitors%20)
+
+<div>
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174273946-68ce9ad2-ef52-481f-ae9e-1555cd00e76d.svg" alt="python">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174274480-bda1b5ae-3f50-43b1-b659-f76fcb2a92f0.svg" alt="c++">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174274710-a8f96353-8140-4c66-8f04-ee29b476fee6.svg" alt="c">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275018-006ea4f3-7d7c-481c-8b19-cb9737b83eb5.svg" alt="numpy">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275081-a36b1abd-612b-464e-b866-15a49d7d2fe2.svg" alt="pandas">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275236-de498ce4-f190-4ac6-b6e4-e4510791fca6.svg" alt="kaggle">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275391-0a438072-7127-4d6b-94f9-80e493dad17e.svg" alt="jupyter">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275467-6dc93d3f-0809-414a-b823-cc98d33949ab.svg" alt="anaconda">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275564-e0899e6b-127e-41b8-ae28-edb0e93dca74.svg" alt="docker">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275641-718813b4-d0f0-4aee-b34e-c1ede36fd806.svg" alt="git">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275802-cbc540cf-5cb2-4c98-97cd-8a403436fa50.svg" alt="linux">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275866-c8146d31-710a-4d40-8a22-fe0f321c423b.svg" alt="unix">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275922-ce72f525-6b37-4d5f-8d54-05bfe35c04f3.svg" alt="debian">
+<img width=40 height=40 src="https://user-images.githubusercontent.com/74931024/174275954-d9a1f388-133a-4c7c-bdda-8bbe06298fae.svg" alt="bash">
+</div>
 
 <!--
 **pgomez-a/pgomez-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
