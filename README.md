@@ -3,9 +3,7 @@
 
 <!--
 **pgomez-a/pgomez-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I am a passionate guy who loves Artificial Intelligence and how we can, as humans, give machines the ability to think. So in a simple stop on Earth on the way home, I am currently studying C. As you can imagine, I have just started my journey, so I am trying to consolidate my programming skills before moving on to the next level.
-
-Here are some of the notes that I have been taking during my stop on Earth. If you don't understand anything, maybe it's because you haven't read: <a href="https://www.casadellibro.com/libro-the-hitchhiker-s-guide-to-the-galaxy/9780345391803/1009645">**The Hitchhiker's Guide to the Galaxy**</a>. Once you read it, you will know what to do with all of this. If you don't want to read it, you can also take these notes, although it won't be the same: 
+I am a passionate guy who loves **Artificial Intelligence** and how we can as humans give machines the ability to think. This passion has made me develop a solid foundation in computer science, being able to master my ability to program in languages such as **Python, C or C++.** I have spent a lot of time consolidating my programming and computer skills until now, when I am ready to go to the next level and focus on my great passion: Artificial Intelligence.
 
 <a><img width="115" alt="memoji of pgomez-a" align= "left" src="https://user-images.githubusercontent.com/74931024/166304696-c78357f1-5c18-4f47-8886-721da80bc1e1.png"></a>
 
